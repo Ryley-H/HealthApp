@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yellow on Black" android:textColor="#FFFF00" android:background="#000000" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Purple on Yellow" android:textColor="#800080" android:background="#FFFF00" />
+</LinearLayout>

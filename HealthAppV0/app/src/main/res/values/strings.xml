@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Health App</string>
+    <string name="nav_text">Text</string>
+    <string name="nav_lr">LR</string>
+    <string name="nav_colors">Colors</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_choices">Choices</string>
+    <string name="nav_todo">To-Do</string>
+</resources>
